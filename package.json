@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
   "scripts": {
-    "R0D0": "node R0D0.js"
+    "R0D0": "node R0D0.js",
+    "R0D1": "node R0D1.js"
   },
   "dependencies": {
     "@babel/core": "7.x.x",
